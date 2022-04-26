@@ -1,0 +1,22 @@
+{
+    "movie name": "Finding Dory",
+    "url": "https://www.rottentomatoes.com//m/finding_dory",
+    "rating": "PG",
+    "genre": [
+        "Adventure",
+        "Kids&family",
+        "Comedy",
+        "Animation"
+    ],
+    "language": [
+        "English"
+    ],
+    "director": [
+        "AndrewStanton"
+    ],
+    "producer": [
+        "LindseyCollins"
+    ],
+    "release(steaming)": "Nov 15,2016",
+    "runtime": 103
+}

@@ -1,0 +1,24 @@
+{
+    "movie name": "Moana",
+    "url": "https://www.rottentomatoes.com//m/moana_2016",
+    "rating": "PG",
+    "genre": [
+        "Animation",
+        "Comedy",
+        "Musical",
+        "Kids&family",
+        "Adventure"
+    ],
+    "language": [
+        "English"
+    ],
+    "director": [
+        "JohnMusker",
+        "RonClements"
+    ],
+    "producer": [
+        "OsnatShurer"
+    ],
+    "release(steaming)": "Mar 7,2017",
+    "runtime": 113
+}

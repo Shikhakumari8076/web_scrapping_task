@@ -1,0 +1,24 @@
+{
+    "movie name": "How to Train Your Dragon",
+    "url": "https://www.rottentomatoes.com//m/how_to_train_your_dragon",
+    "rating": "PG",
+    "genre": [
+        "Animation",
+        "Kids&family",
+        "Fantasy",
+        "Adventure",
+        "Comedy"
+    ],
+    "language": [
+        "English"
+    ],
+    "director": [
+        "ChristopherSanders",
+        "DeanDeBlois"
+    ],
+    "producer": [
+        "BonnieArnold"
+    ],
+    "release(steaming)": "Aug 17,2010",
+    "runtime": 98
+}

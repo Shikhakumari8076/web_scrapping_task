@@ -1,0 +1,21 @@
+{
+    "movie name": "Dumbo",
+    "url": "https://www.rottentomatoes.com//m/dumbo",
+    "rating": "G",
+    "genre": [
+        "Animation",
+        "Fantasy",
+        "Kids&family"
+    ],
+    "language": [
+        "English"
+    ],
+    "director": [
+        "BenSharpsteen"
+    ],
+    "producer": [
+        "WaltDisney"
+    ],
+    "release(steaming)": "Sep 20,2011",
+    "runtime": 64
+}

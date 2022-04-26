@@ -1,0 +1,22 @@
+{
+    "movie name": "Finding Nemo",
+    "url": "https://www.rottentomatoes.com//m/finding_nemo",
+    "rating": "G",
+    "genre": [
+        "Kids&family",
+        "Adventure",
+        "Animation",
+        "Comedy"
+    ],
+    "language": [
+        "English"
+    ],
+    "director": [
+        "AndrewStanton"
+    ],
+    "producer": [
+        "GrahamWalters"
+    ],
+    "release(steaming)": "Nov 4,2003",
+    "runtime": 100
+}

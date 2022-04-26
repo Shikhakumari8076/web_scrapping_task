@@ -1,0 +1,22 @@
+{
+    "movie name": "Inside Out",
+    "url": "https://www.rottentomatoes.com//m/inside_out_2015",
+    "rating": "PG",
+    "genre": [
+        "Animation",
+        "Kids&family",
+        "Fantasy",
+        "Comedy"
+    ],
+    "language": [
+        "English"
+    ],
+    "director": [
+        "PeteDocter"
+    ],
+    "producer": [
+        "JonasRivera"
+    ],
+    "release(steaming)": "Nov 3,2015",
+    "runtime": 95
+}

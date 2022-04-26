@@ -1,0 +1,23 @@
+{
+    "movie name": "Zootopia",
+    "url": "https://www.rottentomatoes.com//m/zootopia",
+    "rating": "PG",
+    "genre": [
+        "Adventure",
+        "Kids&family",
+        "Comedy",
+        "Animation"
+    ],
+    "language": [
+        "English"
+    ],
+    "director": [
+        "ByronHoward",
+        "RichMoore"
+    ],
+    "producer": [
+        "ClarkSpencer"
+    ],
+    "release(steaming)": "Jun 7,2016",
+    "runtime": 108
+}

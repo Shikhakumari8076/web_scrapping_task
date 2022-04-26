@@ -1,0 +1,25 @@
+{
+    "movie name": "Wolfwalkers",
+    "url": "https://www.rottentomatoes.com//m/wolfwalkers",
+    "rating": "PG",
+    "genre": [
+        "Adventure",
+        "Animation",
+        "Fantasy"
+    ],
+    "language": [
+        "English"
+    ],
+    "director": [
+        "TommMoore",
+        "RossStewart"
+    ],
+    "producer": [
+        "TommMoore",
+        "St\u00e9phanRoelants",
+        "NoraTwomey",
+        "PaulYoung"
+    ],
+    "release(steaming)": "Dec 11,2020",
+    "runtime": 103
+}

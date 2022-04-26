@@ -1,0 +1,24 @@
+{
+    "movie name": "The LEGO Movie",
+    "url": "https://www.rottentomatoes.com//m/the_lego_movie",
+    "rating": "PG",
+    "genre": [
+        "Adventure",
+        "Kids&family",
+        "Comedy",
+        "Animation"
+    ],
+    "language": [
+        "English"
+    ],
+    "director": [
+        "PhilLord",
+        "ChrisMiller"
+    ],
+    "producer": [
+        "DanLin",
+        "RoyLee"
+    ],
+    "release(steaming)": "Jun 17,2014",
+    "runtime": 95
+}

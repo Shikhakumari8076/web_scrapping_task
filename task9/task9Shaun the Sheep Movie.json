@@ -1,0 +1,24 @@
+{
+    "movie name": "Shaun the Sheep Movie",
+    "url": "https://www.rottentomatoes.com//m/shaun_the_sheep_movie",
+    "rating": "PG",
+    "genre": [
+        "Adventure",
+        "Kids&family",
+        "Comedy",
+        "Animation"
+    ],
+    "language": [
+        "English"
+    ],
+    "director": [
+        "MarkBurton",
+        "RichardStarzak"
+    ],
+    "producer": [
+        "JulieLockhart",
+        "PaulKewley"
+    ],
+    "release(steaming)": "Nov 24,2015",
+    "runtime": 85
+}

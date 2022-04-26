@@ -1,0 +1,25 @@
+{
+    "movie name": "Chicken Run",
+    "url": "https://www.rottentomatoes.com//m/chicken_run",
+    "rating": "G",
+    "genre": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Kids&family"
+    ],
+    "language": [
+        "English"
+    ],
+    "director": [
+        "PeterLord",
+        "NickPark"
+    ],
+    "producer": [
+        "PeterLord",
+        "NickPark",
+        "DavidSproxton"
+    ],
+    "release(steaming)": "May 22,2006",
+    "runtime": 85
+}

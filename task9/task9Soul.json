@@ -1,0 +1,22 @@
+{
+    "movie name": "Soul",
+    "url": "https://www.rottentomatoes.com//m/soul_2020",
+    "rating": "PG",
+    "genre": [
+        "Comedy",
+        "Adventure",
+        "Animation",
+        "Kids&family"
+    ],
+    "language": [
+        "English"
+    ],
+    "director": [
+        "PeteDocter"
+    ],
+    "producer": [
+        "DanaLeighMurray"
+    ],
+    "release(steaming)": "Dec 25,2020",
+    "runtime": 100
+}

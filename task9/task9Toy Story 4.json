@@ -1,0 +1,25 @@
+{
+    "movie name": "Toy Story 4",
+    "url": "https://www.rottentomatoes.com//m/toy_story_4",
+    "rating": "G",
+    "genre": [
+        "Animation",
+        "Comedy",
+        "Fantasy",
+        "Kids&family",
+        "Adventure"
+    ],
+    "language": [
+        "English"
+    ],
+    "director": [
+        "JoshCooley"
+    ],
+    "producer": [
+        "MarkNielsen",
+        "JonasRivera",
+        "GalynSusman"
+    ],
+    "release(steaming)": "Oct 1,2019",
+    "runtime": 100
+}

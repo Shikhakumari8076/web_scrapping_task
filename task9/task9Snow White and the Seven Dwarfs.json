@@ -1,0 +1,21 @@
+{
+    "movie name": "Snow White and the Seven Dwarfs",
+    "url": "https://www.rottentomatoes.com//m/1048445-snow_white_and_the_seven_dwarfs",
+    "rating": "G",
+    "genre": [
+        "Animation",
+        "Fantasy",
+        "Kids&family"
+    ],
+    "language": [
+        "English"
+    ],
+    "director": [
+        "DavidHand"
+    ],
+    "producer": [
+        "WaltDisney"
+    ],
+    "release(steaming)": "Nov 16,2004",
+    "runtime": 80
+}

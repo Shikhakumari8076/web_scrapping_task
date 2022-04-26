@@ -1,0 +1,23 @@
+{
+    "movie name": "Toy Story 3",
+    "url": "https://www.rottentomatoes.com//m/toy_story_3",
+    "rating": "G",
+    "genre": [
+        "Animation",
+        "Comedy",
+        "Fantasy",
+        "Kids&family",
+        "Adventure"
+    ],
+    "language": [
+        "English"
+    ],
+    "director": [
+        "LeeUnkrich"
+    ],
+    "producer": [
+        "DarlaK.Anderson"
+    ],
+    "release(steaming)": "Nov 2,2010",
+    "runtime": 102
+}

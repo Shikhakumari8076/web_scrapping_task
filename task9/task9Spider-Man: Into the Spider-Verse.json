@@ -1,0 +1,30 @@
+{
+    "movie name": "Spider-Man: Into the Spider-Verse",
+    "url": "https://www.rottentomatoes.com//m/spider_man_into_the_spider_verse",
+    "rating": "PG",
+    "genre": [
+        "Animation",
+        "Comedy",
+        "Fantasy",
+        "Kids&family",
+        "Adventure",
+        "Action"
+    ],
+    "language": [
+        "English"
+    ],
+    "director": [
+        "BobPersichetti",
+        "PeterRamsey",
+        "RodneyRothman"
+    ],
+    "producer": [
+        "AviArad",
+        "AmyPascal",
+        "PhilLord",
+        "ChrisMiller",
+        "ChristinaSteinberg"
+    ],
+    "release(steaming)": "Mar 19,2019",
+    "runtime": 117
+}

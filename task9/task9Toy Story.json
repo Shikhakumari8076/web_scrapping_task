@@ -1,0 +1,24 @@
+{
+    "movie name": "Toy Story",
+    "url": "https://www.rottentomatoes.com//m/toy_story",
+    "rating": "G",
+    "genre": [
+        "Animation",
+        "Comedy",
+        "Fantasy",
+        "Kids&family",
+        "Adventure"
+    ],
+    "language": [
+        "English"
+    ],
+    "director": [
+        "JohnLasseter"
+    ],
+    "producer": [
+        "RalphGuggenheim",
+        "BonnieArnold"
+    ],
+    "release(steaming)": "Mar 23,2010",
+    "runtime": 80
+}

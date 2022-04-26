@@ -1,0 +1,23 @@
+{
+    "movie name": "The Incredibles",
+    "url": "https://www.rottentomatoes.com//m/incredibles",
+    "rating": "PG",
+    "genre": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Kids&family"
+    ],
+    "language": [
+        "English"
+    ],
+    "director": [
+        "BradBird"
+    ],
+    "producer": [
+        "JohnLasseter",
+        "JohnWalker"
+    ],
+    "release(steaming)": "Mar 15,2005",
+    "runtime": 115
+}

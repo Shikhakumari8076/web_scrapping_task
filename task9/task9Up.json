@@ -1,0 +1,23 @@
+{
+    "movie name": "Up",
+    "url": "https://www.rottentomatoes.com//m/up",
+    "rating": "PG",
+    "genre": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Kids&family"
+    ],
+    "language": [
+        "English"
+    ],
+    "director": [
+        "PeteDocter",
+        "BobPeterson"
+    ],
+    "producer": [
+        "JonasRivera"
+    ],
+    "release(steaming)": "Nov 10,2009",
+    "runtime": 89
+}

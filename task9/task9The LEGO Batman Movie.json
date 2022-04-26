@@ -1,0 +1,26 @@
+{
+    "movie name": "The LEGO Batman Movie",
+    "url": "https://www.rottentomatoes.com//m/the_lego_batman_movie",
+    "rating": "PG",
+    "genre": [
+        "Animation",
+        "Comedy",
+        "Kids&family",
+        "Adventure",
+        "Action"
+    ],
+    "language": [
+        "English"
+    ],
+    "director": [
+        "ChrisMcKay"
+    ],
+    "producer": [
+        "DanLin",
+        "PhilLord",
+        "ChrisMiller",
+        "RoyLee"
+    ],
+    "release(steaming)": "Jun 13,2017",
+    "runtime": 106
+}

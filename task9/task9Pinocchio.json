@@ -1,0 +1,22 @@
+{
+    "movie name": "Pinocchio",
+    "url": "https://www.rottentomatoes.com//m/pinocchio_1940",
+    "rating": "G",
+    "genre": [
+        "Animation",
+        "Fantasy",
+        "Kids&family"
+    ],
+    "language": [
+        "English"
+    ],
+    "director": [
+        "BenSharpsteen",
+        "HamiltonLuske"
+    ],
+    "producer": [
+        "WaltDisney"
+    ],
+    "release(steaming)": "Dec 3,2002",
+    "runtime": 87
+}

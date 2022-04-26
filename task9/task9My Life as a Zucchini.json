@@ -1,0 +1,26 @@
+{
+    "movie name": "My Life as a Zucchini",
+    "url": "https://www.rottentomatoes.com//m/my_life_as_a_zucchini",
+    "rating": "PG-13",
+    "genre": [
+        "Animation",
+        "Comedy",
+        "Drama"
+    ],
+    "language": [
+        "French(France)"
+    ],
+    "director": [
+        "ClaudeBarras"
+    ],
+    "producer": [
+        "MarcBonny",
+        "ArmelleGlorennec",
+        "PaulineGygax",
+        "MaxKarli",
+        "KaterynaMerkt",
+        "MichelMerkt"
+    ],
+    "release(steaming)": "May 23,2017",
+    "runtime": 66
+}

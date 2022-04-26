@@ -1,0 +1,23 @@
+{
+    "movie name": "WALL-E",
+    "url": "https://www.rottentomatoes.com//m/wall_e",
+    "rating": "G",
+    "genre": [
+        "Animation",
+        "Comedy",
+        "Kids&family",
+        "Adventure",
+        "Sci-fi"
+    ],
+    "language": [
+        "English"
+    ],
+    "director": [
+        "AndrewStanton"
+    ],
+    "producer": [
+        "JimMorris"
+    ],
+    "release(steaming)": "Nov 18,2008",
+    "runtime": 97
+}

@@ -1,0 +1,21 @@
+{
+    "movie name": "Ratatouille",
+    "url": "https://www.rottentomatoes.com//m/ratatouille",
+    "rating": "G",
+    "genre": [
+        "Animation",
+        "Comedy",
+        "Kids&family"
+    ],
+    "language": [
+        "English"
+    ],
+    "director": [
+        "BradBird"
+    ],
+    "producer": [
+        "BradLewis"
+    ],
+    "release(steaming)": "Nov 6,2007",
+    "runtime": 111
+}

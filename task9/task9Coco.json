@@ -1,0 +1,22 @@
+{
+    "movie name": "Coco",
+    "url": "https://www.rottentomatoes.com//m/coco_2017",
+    "rating": "PG",
+    "genre": [
+        "Adventure",
+        "Music",
+        "Animation",
+        "Comedy"
+    ],
+    "language": [
+        "English"
+    ],
+    "director": [
+        "LeeUnkrich"
+    ],
+    "producer": [
+        "DarlaK.Anderson"
+    ],
+    "release(steaming)": "Feb 13,2018",
+    "runtime": 109
+}

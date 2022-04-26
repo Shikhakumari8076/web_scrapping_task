@@ -1,0 +1,26 @@
+{
+    "movie name": "Toy Story 2",
+    "url": "https://www.rottentomatoes.com//m/toy_story_2",
+    "rating": "G",
+    "genre": [
+        "Animation",
+        "Comedy",
+        "Fantasy",
+        "Kids&family",
+        "Adventure"
+    ],
+    "language": [
+        "English"
+    ],
+    "director": [
+        "AshBrannon",
+        "JohnLasseter",
+        "LeeUnkrich"
+    ],
+    "producer": [
+        "KarenRobertJackson",
+        "HelenePlotkin"
+    ],
+    "release(steaming)": "Mar 23,2010",
+    "runtime": 92
+}
